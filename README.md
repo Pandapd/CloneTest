@@ -4,3 +4,5 @@
 
 分离的时候
 dev独有的
+
+i add this in readme
