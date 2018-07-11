@@ -3,3 +3,4 @@
 every branch is nice.
 
 now i am on dev thinking something
+现在是v0.2啦
